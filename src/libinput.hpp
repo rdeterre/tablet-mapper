@@ -1,7 +1,7 @@
 ///
 /// @file
 ///
-/// C++ wrapper around some APIs of libinput
+/// Very incomplete C++ wrapper around some libinput APIs
 ///
 /// References:
 ///  - Reference API documentation:

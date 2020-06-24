@@ -2,7 +2,7 @@
 ///
 /// @file
 ///
-/// Thin C++ wrapper around libudev.h
+/// Very incomplete C++ wrapper around libudev.h
 ///
 
 #include <stdexcept>

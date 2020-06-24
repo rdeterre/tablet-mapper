@@ -1,5 +1,7 @@
 ///
-/// Tiny C++ wrapper around gdk.h
+/// @file
+///
+/// Very incomplete C++ wrapper around gdk.h
 ///
 
 #pragma once

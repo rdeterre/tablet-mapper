@@ -6,6 +6,7 @@
 
 #include "gdk.hpp"
 #include "libinput.hpp"
+#include "xlib.hpp"
 
 using namespace std::literals;
 
